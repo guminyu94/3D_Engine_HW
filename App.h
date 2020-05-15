@@ -7,6 +7,7 @@ public:
 	App();
 
 	// master frame / message loop
+	// new
 	int Go();
 private:
 
